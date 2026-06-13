@@ -51,6 +51,7 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Shiladhembre&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Shiladhembre&theme=dark&hide_border=false)<br/>
